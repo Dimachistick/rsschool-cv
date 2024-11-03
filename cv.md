@@ -28,7 +28,20 @@ From an early age he was involved in gymnastics and acrobatics. Reached the titl
 
 > ## **Example code**
 
-## Dowland 0,01%
+## Code
+
+```<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Врываюсь в IT</title>
+  </head>
+  <body>
+    <h1>Пробую себя в IT! Начинаем :*</h1>
+  </body>
+</html>
+```
 
 > ## **Experience**
 
